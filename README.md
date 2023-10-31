@@ -1,16 +1,7 @@
 # practice_project_self_introduction_app
 
-自己紹介アプリ
+自己紹介アプリ<br/><br/>
+<img src="https://github.com/KIM-Git-Hub/practice_project_self_introduction_fluter_app/assets/100995721/bba2ff59-52e2-461b-b6af-5c289288b83e"  width="30%" height="30%">
+<img src="https://github.com/KIM-Git-Hub/practice_project_self_introduction_fluter_app/assets/100995721/38f9a619-8d4a-43ff-801e-470052391669"  width="30%" height="30%">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
